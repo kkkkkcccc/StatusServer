@@ -47,6 +47,7 @@ ChatServer StatusServiceImpl::getChatServer()
     return minServer;
 }
 
+//Ã·»°≈‰÷√
 StatusServiceImpl::StatusServiceImpl()
 {
     auto& cfg = ConfigMgr::Inst();
