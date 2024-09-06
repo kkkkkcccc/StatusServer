@@ -62,4 +62,8 @@ private:
 	std::function<void()> func_;	//将传入的func存为成员变量
 };
 
-#define CODEPREFIX  "code_"
+#define USERIPPREFIX  "uip_"
+#define USERTOKENPREFIX  "utoken_"
+#define IPCOUNTPREFIX  "ipcount_"
+#define USER_BASE_INFO "ubaseinfo_"
+#define LOGIN_COUNT  "logincount"
